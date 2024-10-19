@@ -1,0 +1,10 @@
+{
+  "name": "popcorntime-get-api-servers",
+  "version": "1.0.0",
+  "dependencies": {
+    "bittorrent-dht": "^11.0.8",
+    "bittorrent-dht-sodium": "^1.2.0",
+    "dht-keyvalue": "^1.1.2",
+    "lodash": "^4.17.21"
+  }
+}
